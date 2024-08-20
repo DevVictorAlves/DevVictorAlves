@@ -1,7 +1,7 @@
-Hi 👋 I am Pratik!
-I am a software engineer at Elucidata, where I specialize in solving complex biomedical data problems using cutting-edge technology and tools.
+Olá 👋 Eu sou Victor!
+Atuo como desenvolvedor de software na SIGEP, onde me dedico a resolver desafios complexos relacionados às tecnologias utilizadas.
 
-🌐 Visit my portfolio website for more information and to get in touch.
-✍️ Follow me on Medium for more written content.
-
+🌐 Explore meu site de portfólio para mais detalhes e para entrar em contato.
+✍️ Acompanhe-me no Medium para acessar mais conteúdos escritos.
  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevVictorAlves&show_icons=true&theme=transparent)
