@@ -5,3 +5,4 @@ Atuo como desenvolvedor de software na SIGEP, onde me dedico a resolver desafios
 ✍️ Acompanhe-me no Medium para acessar mais conteúdos escritos.
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevVictorAlves&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevVictorAlves&hide_progress=true)
