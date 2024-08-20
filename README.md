@@ -1,7 +1,7 @@
-## Olá! Eu sou Victor Alves.
+Hi 👋 I am Pratik!
+I am a software engineer at Elucidata, where I specialize in solving complex biomedical data problems using cutting-edge technology and tools.
 
-Seja Bem Vindo ao meu GitHub 👋
+🌐 Visit my portfolio website for more information and to get in touch.
+✍️ Follow me on Medium for more written content.
 
-😄 Atualmente sou Analista de Sistemas pela SIGEP - Sistema Integrado de Gestão Pública. E estou atuando principalmente nas áreas de Gestão Tributária e Gestão de ISS, e minha principal função é desenvolver e manter sistemas para otimizar a eficiência da gestão pública.
-
-🚀 Aqui no GitHub, compartilho meus projetos desenvolvidos em diferentes linguagens que estou estudando atualmente. Espero contribuir com a comunidade e também aprimorar minhas habilidades como desenvolvedor.
+ 
